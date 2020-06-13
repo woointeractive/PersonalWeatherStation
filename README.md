@@ -4,6 +4,16 @@ Personal Weather Station with Arduino
 
 **v 1.0.0**
 
+**Features and Screen:**
+
+1. Temperature and humidity
+2. Clcok with temperature and humidity
+3. Pomodoro Timer
+4. Game
+
+![](/images/v1.0.0_OLED.png)
+
+
 **Board and Parts:**
 
 - Arduino Uno or Nano
