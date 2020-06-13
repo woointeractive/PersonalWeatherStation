@@ -2,9 +2,9 @@
 Personal Weather Station with Arduino
 
 
-v 1.0.0
+**v 1.0.0**
 
-Board and Parts:
+**Board and Parts:**
 
 - Arduino Uno or Nano
 - Bluetooth with CC2541 (VCC, GND, TX, RX)
@@ -13,12 +13,18 @@ Board and Parts:
 - DHT11 (VCC, GND, S or D)
 
 
-Design Picture:
+**Design Picture:**
 
-![](/images/v1.0.0.png)
+Arduino Uno
+
+![](/images/v1.0.0_Uno.png)
+
+Arduino Nano
+
+![](/images/v1.0.0_Nano.png)
 
 
-Firmware:
+**Firmware:**
 
 ![v1.0.0](/firmware/v1.0.0.hex.zip)
 
