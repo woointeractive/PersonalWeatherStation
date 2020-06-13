@@ -32,8 +32,8 @@ RX | TX| Bluetooth |
 TX | RX| Bluetooth |
 VCC | VCC| OLED |
 GND | GND| OLED |
-A4 | SDA| OLED |
-A5 | SCL| OLED |
+A4 | [SDA](https://www.arduino.cc/en/Reference/Wire)| OLED |
+A5 | [SCL](https://www.arduino.cc/en/Reference/Wire)| OLED |
 3.3v | 3.3v| Passive Buzzer |
 GND | GND| Passive Buzzer |
 D13 | S or D| Passive Buzzer |
