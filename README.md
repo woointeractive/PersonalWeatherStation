@@ -54,6 +54,9 @@ D2 | S or D| DHT11 |
 
 **Firmware:**
 
-[v1.0.0](/firmware/v1.0.0.hex.zip)
+[HelloWorld](/firmware/HelloWorld.hex.zip) - Testing screen and buzzer
+
+[v1.0.0](/firmware/v1.0.0.hex.zip) - Include all functions
+
 
 
