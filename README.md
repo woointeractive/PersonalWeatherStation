@@ -11,7 +11,7 @@ Personal Weather Station with Arduino, a smart device for Pixel Weather v4.x
 3. Pomodoro Timer
 4. Game
 
-![](/images/v1.0.0_OLED.png)
+![](https://api.woo-interactive.com/arduino/images/v1.0.0_OLED.png)
 
 
 **Board and Parts:**
@@ -27,11 +27,11 @@ Personal Weather Station with Arduino, a smart device for Pixel Weather v4.x
 
 Arduino Uno
 
-![](/images/v1.0.0_Uno.png)
+![](https://api.woo-interactive.com/arduino/images/v1.0.0_Uno.png)
 
 Arduino Nano
 
-![](/images/v1.0.0_Nano.png)
+![](https://api.woo-interactive.com/arduino/images/v1.0.0_Nano.png)
 
 
 **Pin Table:**
