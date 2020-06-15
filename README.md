@@ -34,6 +34,8 @@ Arduino Nano
 ![](/images/v1.0.0_Nano.png)
 
 
+**Pin Table:**
+
 Arduino Uno / Nano Pin | Part Pin | Part Name |
 :-: | :-: | :-: |
 VCC | VCC | Bluetooth |
