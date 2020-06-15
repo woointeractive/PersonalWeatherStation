@@ -61,4 +61,4 @@ D2 | S or D| DHT11 |
 
 **App available on App Store**
 
-[Pixel Weather v4.0.0](https://apps.apple.com/app/id1278650505)
+[Pixel Weather v4.0.0](https://apps.apple.com/app/id1278650505) (iPhone, iPad, Watch)
