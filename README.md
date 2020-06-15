@@ -1,5 +1,5 @@
 # PersonalWeatherStation
-Personal Weather Station with Arduino
+Personal Weather Station with Arduino, a smart device for Pixel Weather v4.x
 
 
 **v 1.0.0**
@@ -59,4 +59,6 @@ D2 | S or D| DHT11 |
 [v1.0.0](/firmware/v1.0.0.hex.zip) - Include all functions
 
 
+**App available on App Store**
 
+[Pixel Weather v4.0.0](https://apps.apple.com/app/id1278650505)
