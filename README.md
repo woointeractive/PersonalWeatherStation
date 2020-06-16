@@ -53,7 +53,7 @@ GND | GND| DHT11 |
 D2 | S or D| DHT11 |
 
 
-**Drive:**
+**Driver:**
 
 [macOS](/driver/CH34x_Install_V1.5.pkg) - Serial port driver for Sierra (10.12) and High Sierra (10.13)
 
