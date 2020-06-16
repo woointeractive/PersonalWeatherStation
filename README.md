@@ -2,7 +2,6 @@
 Personal Weather Station with Arduino, a smart device for Pixel Weather v4.x
 
 
-**v 1.0.0**
 
 **Features and Screen:**
 
@@ -11,7 +10,7 @@ Personal Weather Station with Arduino, a smart device for Pixel Weather v4.x
 3. Pomodoro Timer
 4. Game
 
-![](/images/v1.0.0_OLED.png)
+![](/image/v1.0.0_OLED.png)
 
 
 **Board and Parts:**
@@ -27,11 +26,11 @@ Personal Weather Station with Arduino, a smart device for Pixel Weather v4.x
 
 Arduino Uno
 
-![](/images/v1.0.0_Uno.png)
+![](/image/v1.0.0_Uno.png)
 
 Arduino Nano
 
-![](/images/v1.0.0_Nano.png)
+![](/image/v1.0.0_Nano.png)
 
 
 **Pin Table:**
@@ -52,6 +51,11 @@ D13 | S or D| Passive Buzzer |
 VCC | VCC| DHT11 |
 GND | GND| DHT11 |
 D2 | S or D| DHT11 |
+
+
+**Drive:**
+
+[macOS](/driver/CH34x_Install_V1.5.pkg) - Serial port driver for Sierra (10.12) and High Sierra (10.13)
 
 
 **Firmware:**
