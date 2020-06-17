@@ -27,7 +27,7 @@ Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](h
 
 #### **2. Board and Parts:**
 
-- Arduino Uno or Nano
+- Arduino [Uno](https://store.arduino.cc/usa/arduino-uno-rev3) or [Nano](https://store.arduino.cc/usa/arduino-nano)
 - Bluetooth with CC2541 (VCC, GND, TX, RX)
 - OLED 128x64 IIC(I2C) with SSD1306 (VCC, GND, SDA, SCL)
 - Passive Buzzer (3.3v, GND, S or D)
