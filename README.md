@@ -10,7 +10,7 @@ Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](h
 - [4. Pin Table](#4)
 - [5. Driver](#5)
 - [6. Firmware](#6)
-- [7. App Download](#7)
+- [7. App Download](#7-app-download)
 
 
 **1. Features and Screen:**
