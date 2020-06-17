@@ -1,7 +1,7 @@
 # PersonalWeatherStation
 Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](https://apps.apple.com/app/id1278650505).
-
-
+  
+  
 
 ## Table of contents
 - [1. Features and Screenshots](#1-features-and-screenshots)
@@ -11,6 +11,7 @@ Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](h
 - [5. Drivers](#5-drivers)
 - [6. Firmwares](#6-firmwares)
 - [7. App Download](#7-app-download)
+  
 
 
 #### **1. Features and Screenshots:**
@@ -20,7 +21,8 @@ Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](h
 - Pomodoro Timer
 - Game
 
-![](/images/v1.0.0_OLED.png)
+    ![](/images/v1.0.0_OLED.png)
+  
 
 
 #### **2. Board and Parts:**
@@ -30,17 +32,19 @@ Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](h
 - OLED 128x64 IIC(I2C) with SSD1306 (VCC, GND, SDA, SCL)
 - Passive Buzzer (3.3v, GND, S or D)
 - DHT11 (VCC, GND, S or D)
+  
 
 
 #### **3. Design Pictures:**
 
-Arduino Uno
+- **Arduino Uno**
 
-![](/images/v1.0.0_Uno.png)
+    ![](/images/v1.0.0_Uno.png)
 
-Arduino Nano
+- **Arduino Nano**
 
-![](/images/v1.0.0_Nano.png)
+    ![](/images/v1.0.0_Nano.png)
+  
 
 
 #### **4. Pin Table:**
@@ -61,11 +65,13 @@ D13 | S or D| Passive Buzzer |
 VCC | VCC| DHT11 |
 GND | GND| DHT11 |
 D2 | S or D| DHT11 |
+  
 
 
 #### **5. Drivers:**
 
 [macOS](/drivers/CH34x_Install_V1.5.pkg) - Serial port driver for Sierra (10.12) and High Sierra (10.13)
+  
 
 
 #### **6. Firmwares:**
@@ -73,8 +79,9 @@ D2 | S or D| DHT11 |
 [HelloWorld](/firmwares/HelloWorld.hex.zip) - Testing screen and buzzer
 
 [v1.0.0](/firmwares/v1.0.0.hex.zip) - Include all functions
+  
 
 
 #### **7. App Download:**
 
-[Pixel Weather v4.0.0](https://apps.apple.com/app/id1278650505) (Available on App Store, for iPhone, iPad, Watch)
+[Pixel Weather v4.x](https://apps.apple.com/app/id1278650505) (Available on App Store, for iPhone, iPad, Watch)
