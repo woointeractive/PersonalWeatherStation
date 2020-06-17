@@ -2,6 +2,10 @@
 Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](https://apps.apple.com/app/id1278650505)
 
 
+**Introduction:**
+
+https://github.com/woointeractive/PersonalWeatherStation
+
 
 **Features and Screen:**
 
