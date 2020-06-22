@@ -17,7 +17,7 @@ Personal Weather Station with Arduino, a smart device for [Pixel Weather v4.x](h
 #### **1. Features and Screenshots:**
 
 - Temperature and humidity
-- Clcok with temperature and humidity
+- Clock with temperature and humidity
 - Pomodoro Timer
 - Game
 
