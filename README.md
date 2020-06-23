@@ -81,7 +81,9 @@ D2 | S or D| DHT11 |
 
 [v1.0.0](/firmwares/v1.0.0.hex.zip) - Include all functions
   
-
+Steps:
+1. Unzip the firmware file
+2. Download [Ardukit](https://apps.apple.com/app/ardukit/id1518175697) (macOS) and select .hex file to flash into Arduino board
 
 #### **7. App Download:**
 
