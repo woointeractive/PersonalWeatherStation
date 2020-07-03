@@ -71,7 +71,7 @@ D2 | S or D| DHT11 |
 
 #### **5. Drivers:**
 
-[macOS](/drivers/CH34x_Install_V1.5.pkg) - Serial port driver for Sierra (10.12) and High Sierra (10.13)
+[macOS](https://github.com/woointeractive/Arduino/blob/master/drivers/CH34x_Install_V1.5.pkg) - Serial port driver for Sierra (10.12) and High Sierra (10.13)
   
 
 
